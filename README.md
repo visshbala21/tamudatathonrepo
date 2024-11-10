@@ -64,5 +64,5 @@ Customization Preferences: Analysis of popular modifiers helps in ingredient sto
 File Structure
 ronis.html - Main Dashboard page with an overview of key metrics.
 additional_insights.html - Detailed insights page with additional metrics.
-Q&A_insights.html - Q&A insights page answering specific business questions.
+insights_QnA.html - Q&A insights page answering specific business questions.
 README.md - This file, providing an overview and guide for navigating the dashboard.
